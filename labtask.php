@@ -80,7 +80,7 @@
    <input type="button" value="register" style="background-color:blueviolet; color:white;">
 </center></td>
 </tr>
-
+</table>
 </center>
 
 </body>
