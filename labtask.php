@@ -48,7 +48,7 @@
 <tr>
    <td> <input type="text"><br></td>
 </tr>
-</form>
+
 <tr>
     <td>
 <center>
