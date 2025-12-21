@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <Title>Registration form</title>
+        <title>Registration form</title>
         <style>
             body{
                 font-family: Arial,sans-serif;
